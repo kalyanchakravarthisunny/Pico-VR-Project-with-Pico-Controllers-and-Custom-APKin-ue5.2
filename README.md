@@ -1,0 +1,2 @@
+# Pico-VR-Project-with-Pico-Controllers-and-Custom-APKin-ue5.2
+This project is a Pico VR venture featuring Pico controllers and a tailored APK for Pico VR devices. The goal is to create an immersive, interactive VR experience, combining precision control with a customized application for optimal performance. Rigorous testing ensures a seamless user experience in this high-quality VR environment. ue5.2 project
